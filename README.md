@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Mubashir</h1>
+<h1 align="center">Hello 👋, I'm Shoaib</h1>
 <h3 align="center">A passionate Front-End developer and Gamerrrr based in Islamabad, Pakistan</h3>
 
 
